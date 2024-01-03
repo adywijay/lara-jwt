@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * References https://github.com/PHP-Open-Source-Saver/jwt-auth
+ */
+
 namespace App\Http\Traits;
 
 use PHPOpenSourceSaver\JWTAuth\Facades\JWTAuth;
